@@ -1,3 +1,4 @@
 nombre = "Marcos"
 apellido = "Manzanelli"
-print(f"Hola soy {nombre} {apellido} alumno de programación 1.")
+materia = "Programación 1"
+print(f"Hola soy {nombre} {apellido} alumno de {materia}.")
